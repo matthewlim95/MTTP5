@@ -4,5 +4,5 @@ using namespace std;
 
 void main()
 {
-	cout << "babi" << endl;
+	cout << "DogGK" << endl;
 }
